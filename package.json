@@ -1,0 +1,13 @@
+{
+  "name": "SupCaster",
+  "version": "1.0.0",
+  "description": "Cast files to your chromecast",
+  "bin": {
+    "caster": "bin/caster.js"
+  },
+  "dependencies": {
+    "chromecast-js": "^0.1.7",
+    "colors": "^1.1.2",
+    "commander": "^2.9.0"
+  }
+}
